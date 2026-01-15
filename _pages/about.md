@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /
 title: "Jack Gidney"
 author_profile: true
