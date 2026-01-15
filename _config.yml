@@ -224,7 +224,7 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
-    permalink: /:collection/:name/
+    permalink: /research/:name/
   group_theory:
     output: true
     permalink: /:collection/:name/
