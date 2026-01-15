@@ -33,14 +33,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  orcid            : "https://orcid.org/yourorcidurl"
 
 
   # Repositories and software development
-  github           : "academicpages"  
+  github           : "https://github.com/jgidney44"  
 
   # Social media
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/jackgidney"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
