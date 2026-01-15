@@ -224,10 +224,10 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
   group_theory:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
 
 # These settings control how pages and collections are included in the site
 defaults:
