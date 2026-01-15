@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Jack Gidney"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
