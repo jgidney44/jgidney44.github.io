@@ -225,7 +225,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-
+  group_theory:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -254,10 +256,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _group-theory
+  # _group_theory
   - scope:
       path: ""
-      type: group-theory
+      type: group_theory
     values:
       layout: single
       author_profile: true
