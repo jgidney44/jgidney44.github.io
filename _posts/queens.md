@@ -1,7 +1,7 @@
 ---
 title: 'A Strategy Guide to Queens'
 permalink: /posts/queens
-excerpt: "As it says, a guide to the strategies of Queens and how to improve your solving speed.
+excerpt: 'As it says, a guide to the strategies of Queens and how to improve your solving speed.'
 ---
 
 
