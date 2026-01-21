@@ -6,6 +6,14 @@ author_profile: false
 ---
 
 {% include base_path %}
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li style="margin-bottom: 1.5em;">
+      <h2>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <p>{{ post.excerpt | strip_html }}</p>
+    </li>
+  {% endfor %}
+</ul>
