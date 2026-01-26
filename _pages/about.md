@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page!
+Currently under construction, do check out the research tab!
