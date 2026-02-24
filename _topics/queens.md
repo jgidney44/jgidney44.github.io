@@ -6,4 +6,4 @@ layout: topic
 ---
 
 
-Test queens post.
+<iframe src="/assets/Guide to Queens.pdf" width="100%" height="800px"></iframe>
