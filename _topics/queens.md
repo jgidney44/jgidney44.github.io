@@ -1,7 +1,6 @@
 ---
-title: 'A Strategy Guide to Queens'
+title: 'A Guide to the Strategies of Queens'
 permalink: /interesting-topics/queens
-excerpt: 'A guide to the strategies of Queens and how to improve your solving speed.'
 layout: pdf
 pdf: /assets/Guide_to_Queens.pdf
 ---
