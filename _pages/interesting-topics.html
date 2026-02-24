@@ -8,12 +8,27 @@ author_profile: true
 {% include base_path %}
 
 <ul class="post-list">
+
   {% for post in site.topics %}
-    <li style="margin-bottom: 1.5em;">
-      <h2>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <p>{{ post.excerpt | strip_html }}</p>
-    </li>
+    {% if post.featured %}
+      <li style="margin-bottom: 1.5em;">
+        <h2>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <p>{{ post.excerpt | strip_html }}</p>
+      </li>
+    {% endif %}
   {% endfor %}
+
+  {% for post in site.topics %}
+    {% unless post.featured %}
+      <li style="margin-bottom: 1.5em;">
+        <h2>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <p>{{ post.excerpt | strip_html }}</p>
+      </li>
+    {% endunless %}
+  {% endfor %}
+
 </ul>
