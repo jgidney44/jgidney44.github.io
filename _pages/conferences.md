@@ -8,11 +8,11 @@ author_profile: true
 <div id="conference-item">
 
 <div>
-<strong>Title</strong><br>
-Description text.
+<strong>Manchester Algebra Conference</strong><br>
+Finite groups, graphs and representation theory.
 </div>
 
-<img src="https://via.placeholder.com/160x100" width="160">
+<img src="images/mac photo.jpeg" width="160">
 
 </div>
 
@@ -20,10 +20,10 @@ Description text.
 <div id="conference-item">
 
 <div>
-<strong>Title Two</strong><br>
-Description text two.
+<strong>Orbit Warwick</strong><br>
+Growth in groups.
 </div>
 
-<img src="https://via.placeholder.com/160x100" width="160">
+<img src="images/orbit logo.png" width="160">
 
 </div>
