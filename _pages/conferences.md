@@ -5,25 +5,24 @@ permalink: /conferences/
 author_profile: true
 ---
 
-<div id="conference-item">
+<div style="display: flex; flex-direction: column; gap: 2rem; padding: 1rem 0;">
 
-<div>
-<strong>Manchester Algebra Conference</strong><br>
-Finite groups, graphs and representation theory.
-</div>
+  <div style="display: flex; align-items: center; gap: 1.5rem;">
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="flex: 1;">
+      <strong>Manchester Algebra Conference</strong><br>
+      Finite groups, graphs and representation theory.
+    </div>
+    <img src="images/mac photo.jpeg" width="160" style="border-radius: 6px; flex-shrink: 0;">
+  </div>
 
-<img src="images/mac photo.jpeg" width="160">
-
-</div>
-
-
-<div id="conference-item">
-
-<div>
-<strong>Orbit Warwick</strong><br>
-Growth in groups.
-</div>
-
-<img src="images/orbit logo.png" width="160">
+  <div style="display: flex; align-items: center; gap: 1.5rem;">
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="flex: 1;">
+      <strong>Orbit Warwick</strong><br>
+      Growth in groups.
+    </div>
+    <img src="images/orbit logo.png" width="160" style="border-radius: 6px; flex-shrink: 0;">
+  </div>
 
 </div>
