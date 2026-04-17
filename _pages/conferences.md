@@ -13,7 +13,7 @@ author_profile: true
       <strong>Manchester Algebra Conference</strong><br>
       Finite groups, graphs and representation theory.
     </div>
-    <img src="{{ '/images/mac-photo.jpeg' | relative_url }}" style="width="300; max-width: 35%; style="border-radius: 6px; flex-shrink: 0;">
+    <img src="{{ '/images/mac-photo.jpeg' | relative_url }}" style="width: 300; max-width: 35%; style="border-radius: 6px; flex-shrink: 0;">
   </div>
 
   <div style="display: flex; align-items: center; gap: 1.5rem;">
@@ -22,7 +22,7 @@ author_profile: true
       <strong>Orbit Warwick</strong><br>
       Growth in groups.
     </div>
-    <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width="300; max-width: 35%; style="border-radius: 6px; flex-shrink: 0;">
+    <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 300; max-width: 35%; style="border-radius: 6px; flex-shrink: 0;">
   </div>
 
 </div>
