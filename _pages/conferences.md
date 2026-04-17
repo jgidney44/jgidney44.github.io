@@ -5,7 +5,7 @@ permalink: /conferences/
 author_profile: true
 ---
 
-<div style="border-left:5px solid black; padding-left:16px; display:flex; justify-content:space-between; gap:20px; align-items:center;">
+<div id="conference-item">
 
 <div>
 <strong>Title</strong><br>
@@ -17,7 +17,7 @@ Description text.
 </div>
 
 
-<div style="border-left:5px solid black; padding-left:16px; display:flex; justify-content:space-between; gap:20px; align-items:center;">
+<div id="conference-item">
 
 <div>
 <strong>Title Two</strong><br>
