@@ -11,7 +11,7 @@ author_profile: true
     <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Orbit Birmingham - November 2025</strong><br>
-      Representation theory.
+      <p>Representation theory.</p>
     </div>
     <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
@@ -20,7 +20,7 @@ author_profile: true
     <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Manchester Algebra Conference - January 2026</strong><br>
-      Finite groups, graphs and representation theory.
+      <p>Finite groups, graphs and representation theory.</p>
     </div>
     <img src="{{ '/images/mac-photo.jpeg' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
@@ -29,8 +29,8 @@ author_profile: true
     <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Orbit Warwick - February 2026</strong><br>
-      Growth in groups.
-      <a href="https://sites.google.com/view/orbit-meetings/">Conference website.<\a>
+      <p>Growth in groups.</p>
+      <p><a href="https://sites.google.com/view/orbit-meetings/">Conference website.</a></p>
     </div>
     <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
@@ -39,7 +39,7 @@ author_profile: true
     <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Introduction to Modern Advances In Algebra - April 2026</strong><br>
-      Mini-courses in diagrammatic algebras in representation theory, geometric group theory, and quantum affine algebras.
+      <p>Mini-courses in diagrammatic algebras in representation theory, geometric group theory, and quantum affine algebras.</p>
     </div>
     <img src="" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
