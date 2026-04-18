@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="display: flex; flex-direction: column; gap: 2rem; padding: 1rem 0;">
 
-<div style="display: flex; align-items: center; gap: 1.5rem;">
+<div style="display: flex; align-items: flex-start; gap: 1.5rem;">
     <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Orbit Birmingham - November 2025</strong><br>
@@ -16,7 +16,7 @@ author_profile: true
     <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
 
-  <div style="display: flex; align-items: center; gap: 1.5rem;">
+  <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
     <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Manchester Algebra Conference - January 2026</strong><br>
@@ -25,7 +25,7 @@ author_profile: true
     <img src="{{ '/images/mac-photo.jpeg' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
 
-  <div style="display: flex; align-items: center; gap: 1.5rem;">
+  <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
     <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Orbit Warwick - February 2026</strong><br>
@@ -35,7 +35,7 @@ author_profile: true
     <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
 
-  <div style="display: flex; align-items: center; gap: 1.5rem;">
+  <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
     <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Introduction to Modern Advances In Algebra - April 2026</strong><br>
