@@ -13,7 +13,7 @@ author_profile: true
       <strong>Orbit Birmingham - November 2025</strong><br>
       <p>Representation theory.</p>
     </div>
-    <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
+    <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 400px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
@@ -22,7 +22,7 @@ author_profile: true
       <strong>Manchester Algebra Conference - January 2026</strong><br>
       <p>Finite groups, graphs and representation theory.</p>
     </div>
-    <img src="{{ '/images/mac-photo.jpeg' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
+    <img src="{{ '/images/mac-photo.jpeg' | relative_url }}" style="width: 400px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
@@ -31,7 +31,7 @@ author_profile: true
       <strong>Orbit Warwick - February 2026</strong><br>
       <p>Growth in groups.</p>
     </div>
-    <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
+    <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 400px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
@@ -43,7 +43,7 @@ author_profile: true
         Slides for my talk on normal coverings of finite classical groups.
       </a>
     </div>
-    <img src="" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
+    <img src="" style="width: 400px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
 
 </div>
