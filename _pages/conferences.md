@@ -39,7 +39,7 @@ author_profile: true
     <div style="flex: 1;">
       <strong>Introduction to Modern Advances In Algebra - April 2026</strong><br>
       <p>Mini-courses in diagrammatic algebras in representation theory, geometric group theory, and quantum affine algebras.</p>
-      <a href="{{ '/assets/itmaia-slides.pdf' | relative_url }}" style="display: inline-block; margin-top: 0.4rem; color: #ccc; font-size: 0.85rem; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 1px;">
+      <a href="{{ '/assets/itmaia-slides.pdf' | relative_url }}" style="target: _blank; display: inline-block; margin-top: 0.4rem; color: #ccc; font-size: 0.85rem; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 1px;">
         Slides for my talk on normal coverings of finite classical groups.
       </a>
     </div>
