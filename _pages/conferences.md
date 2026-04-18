@@ -30,7 +30,9 @@ author_profile: true
     <div style="flex: 1;">
       <strong>Orbit Warwick - February 2026</strong><br>
       <p>Growth in groups.</p>
-      <p><a href="https://sites.google.com/view/orbit-meetings/">Conference website.</a></p>
+      <a href="https://sites.google.com/view/orbit-meetings/" style="display: inline-block; margin-top: 0.4rem; font-size: 0.85rem; color: #666; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 1px;">
+        Conference website →
+      </a>
     </div>
     <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 300px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
   </div>
