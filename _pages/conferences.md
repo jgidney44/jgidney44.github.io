@@ -16,7 +16,7 @@ author_profile: true
         Slides for my talk on normal coverings of finite classical groups.
       </a>
     </div>
-    <img src="" style="width: 400px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
+    <img src="{{ '/assets/itmaia.jpg' | relative_url }}" style="width: 400px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
