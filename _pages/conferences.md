@@ -8,7 +8,7 @@ author_profile: true
 <div style="display: flex; flex-direction: column; gap: 2rem; padding: 1rem 0;">
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
-    <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Group Theory in Birmingham - May 2026</strong><br>
       <p>Finite groups.</p>
@@ -17,7 +17,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
-    <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Introduction to Modern Advances In Algebra - April 2026</strong><br>
       <p>Mini-courses in diagrammatic algebras in representation theory, geometric group theory, and quantum affine algebras.</p>
@@ -29,7 +29,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
-    <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Orbit Warwick - February 2026</strong><br>
       <p>Growth in groups.</p>
@@ -38,7 +38,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
-    <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Manchester Algebra Conference - January 2026</strong><br>
       <p>Finite groups, graphs and representation theory.</p>
@@ -47,7 +47,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
-    <div style="width: 2px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
       <strong>Orbit Birmingham - November 2025</strong><br>
       <p>Representation theory.</p>
