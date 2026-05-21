@@ -10,6 +10,15 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
     <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
+      <strong>Orbit Manchester - February 2026</strong><br>
+      <p>Representation Theory.</p>
+    </div>
+    <img src="{{ '/images/orbit-logo.png' | relative_url }}" style="width: 400px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 1.5rem;">
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="flex: 1;">
       <strong>Group Theory in Birmingham - May 2026</strong><br>
       <p>Finite groups.</p>
     </div>
