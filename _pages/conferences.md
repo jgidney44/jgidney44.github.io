@@ -10,7 +10,17 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
     <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
-      <strong>Groups and Algebras In Bicocca for Young Algebraists - June 2026</strong><br>
+      <strong>British Early Careers Mathematicians' Colloquium - June 2026</strong><br>
+      <p>Co-organiser of this three-day colloquium bringing together early career researchers across all areas of mathematics.</p>
+      <p>For more information see: <a href="https://web.mat.bham.ac.uk/BYMC/" style="target: _blank; display: inline-block; margin-top: 0.4rem; color: inherit; font-size: 0.85rem; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 1px;"></a></p>
+    </div>
+    <img src="{{ '/images/becmc.jpg' | relative_url }}" style="width: 400px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 1.5rem;">
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="flex: 1;">
+      <strong>Groups and Algebras in Bicocca for Young Algebraists - June 2026</strong><br>
       <p>Mini-courses in permutation groups and derangements, tensors to study p-groups, and non-commutative differential geometry.</p>
       <a href="{{ '/assets/gaby-slides.pdf' | relative_url }}" style="target: _blank; display: inline-block; margin-top: 0.4rem; color: inherit; font-size: 0.85rem; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 1px;">
         Slides for my talk on normal coverings of finite classical groups.
