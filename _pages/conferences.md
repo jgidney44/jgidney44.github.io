@@ -12,7 +12,7 @@ author_profile: true
     <div style="flex: 1;">
       <strong>British Early Careers Mathematicians' Colloquium - June 2026</strong><br>
       <p>Co-organiser of this three-day colloquium bringing together early career researchers across all areas of mathematics.</p>
-      <p>For more information see: <a href="https://web.mat.bham.ac.uk/BYMC/" style="target: _blank; display: inline-block; margin-top: 0.4rem; color: inherit; font-size: 0.85rem; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 1px;"></a></p>
+      <p>For more information see the <a href="https://web.mat.bham.ac.uk/BYMC/" style="target: _blank; display: inline-block; margin-top: 0.4rem; color: inherit; font-size: 0.85rem; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 1px;">BECMC Website</a>.</p>
     </div>
     <img src="{{ '/images/becmc.jpg' | relative_url }}" style="width: 400px; max-width: 35%; border-radius: 6px; flex-shrink: 0;">
 </div>
