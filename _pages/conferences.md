@@ -15,8 +15,10 @@ author_profile: true
       <p>Delivered a talk on my current work on normal coverings of the symplectic groups.</p>
     </div>
     <div style="display: flex; flex-direction: column; gap: 1rem; max-width: 35%; flex-shrink: 0;">
-      <img src="{{ '/images/BRIJGACS.jpg' | relative_url }}"
-           style="display: block; width: 100%; height: auto;">
+        <img src="https://jgidney44.github.io/images/BRIJGACS.jpg"
+             alt="Bristol Junior Geometry Algebra and Combinatorics Seminar"
+             style="display: block; width: 100%; height: auto; border-radius: 6px;"
+      >
     </div>
 </div>
 
