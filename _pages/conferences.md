@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conferences"
+title: "Conferences/Talks"
 permalink: /conferences/
 author_profile: true
 ---
