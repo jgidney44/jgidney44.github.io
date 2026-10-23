@@ -11,6 +11,18 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
     <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
     <div style="flex: 1;">
+      <strong>Bristol Junior Geometry Algebra and Combinatorics Seminar - October 2026</strong><br>
+      <p>Gave a talk on my current work on normal coverings of the symplectic groups.</p>
+    <div style="display: flex; flex-direction: column; gap: 1rem; max-width: 35%; flex-shrink: 0;">
+      <img src="{{ '/images/BRIJGACS.jpg' | relative_url }}"
+           style="width: 100%; border-radius: 6px;">
+    </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; gap: 1.5rem;">
+    <div style="width: 3px; background: #ccc; border-radius: 2px; align-self: stretch; flex-shrink: 0;"></div>
+    <div style="flex: 1;">
       <strong>Algebra and Representation Theory in the North - September 2026</strong><br>
       <p>Talks across various areas of group theory and representation theory.</p>
       <a href="{{ '/assets/artin-talk.pdf' | relative_url }}" style="target: _blank; display: inline-block; margin-top: 0.4rem; color: inherit; font-size: 0.85rem; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 1px;">
