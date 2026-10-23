@@ -16,7 +16,7 @@ author_profile: true
     </div>
     <div style="display: flex; flex-direction: column; gap: 1rem; max-width: 35%; flex-shrink: 0;">
       <img src="{{ '/images/BRIJGACS.jpg' | relative_url }}"
-           style="width: 100%; border-radius: 6px;">
+           style="display: block; width: 100%; height: auto;">
     </div>
 </div>
 
